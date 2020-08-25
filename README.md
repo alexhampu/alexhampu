@@ -9,6 +9,7 @@ Nice to meet you.
 ##### Front-end
 * Basic stuff (HTML, CSS, JS)
 * SCSS
+* TypeScript
 * Angular
 * VueJS
 * React
