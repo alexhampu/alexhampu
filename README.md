@@ -31,6 +31,8 @@ Nice to meet you.
 * Linux
 * Windows
 * Firefox
+* JetBrains
+* Open-source
 
 ## What do I hate?
 * iOS _(I appreciate the stability of the platform, but I hate the fact that it's too restricted, but hey... you can't have both)_
