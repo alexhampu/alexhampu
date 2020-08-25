@@ -14,12 +14,14 @@ Nice to meet you.
 * VueJS
 * React
 * CSS Frameworks (Bootstrap, Tailwind and anything you need, it's plain HTML and CSS)
-* AlpineJS
+* jQuery (very useful in the past, but hopefully it will die peacfully now)
 
 ##### Back-end
 * PHP (LaravelLiveWire, CodeIgniter, Wordpress)
 * Java (Java EE, Spring Boot, Spring Framework, Hibernate)
 * NodeJS (Express.js, Koa)
+
+Experience with RESTful API's
 
 ##### Mobile
 * Ionic
