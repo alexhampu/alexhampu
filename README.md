@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello world, I am **Alex** 🙂
 
-<!--
-**alexhampu/alexhampu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet you.
 
-Here are some ideas to get you started:
+### What do I do?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💾 Software development
+
+##### Front-end
+* Basic stuff (HTML, CSS, JS)
+* SCSS
+* Angular
+* VueJS
+* CSS Frameworks (Bootstrap, Tailwind and anything you need, it's plain HTML and CSS)
+
+##### Back-end
+* PHP (Laravel, CodeIgniter, Wordpress)
+* Java (Java EE, Spring Boot, Spring Framework, Hibernate)
+
+##### Mobile
+* Ionic
+* React Native💾
