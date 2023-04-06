@@ -2,6 +2,8 @@
 
 Nice to meet you.
 
+![](https://github-readme-stats.vercel.app/api?username=alexhampu&count_private=true&show_icons=true)
+
 ## What do I do?
 
 ### 💾 Software development
